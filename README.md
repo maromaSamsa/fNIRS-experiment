@@ -1,5 +1,6 @@
 # ARMT invervention experiment flow (Healthy subject) 
 
+[Read me Online](https://hackmd.io/@maromaSamsa/r14l1sSeo)
 
 ## Objective: 
 
@@ -100,9 +101,34 @@ Find at least 10, at most 30 subjects to join the intervention experiment, All s
 
 ### Evaluation 
 #### Pre-test and post-test
-#### fNIRS
+:::success
+This part will be handled by Dr. Xu
+:::
+1. Pinch-holding-up-activity test, PHUA test
+2. Semmes-Weinstein monofilament, SWM
+3. Two-point Discrimination Test, 2PD)
+4. Purdue Pegboard Test
+5. Minnesota Manual Dexterity Test, MMDT
 
-![image][https://github.com/maromaSamsa/fNIRS-experiment/blob/main/fOLD/fOLD.png]
+
+#### fNIRS
+According to the literature research and Dr. Xu's IRB proposal, the following cortex regions will be selected:
+1. brain prefrontal cortex
+2. premotor cortex
+3. primary motor cortex
+4. supplementary motor cortex
+5. sensorimotor cortex
+6. secondary sensory cortex
+
+
+![image](https://github.com/maromaSamsa/fNIRS-experiment/blob/main/fOLD/fOLD.png)
+https://github.com/maromaSamsa/fNIRS-experiment/blob/main/fOLD/fOLD.png
+> The fNIRS chennel will be set with reference to this chart
+
+
+![image](https://github.com/maromaSamsa/fNIRS-experiment/blob/main/PNG/fNIRS.png)
+https://github.com/maromaSamsa/fNIRS-experiment/blob/main/fOLD/fOLD.png
+> Subject schematic
 
 ### Intervention schedule for single subject
 Each healthy subject will have **twice intervention**, one is the traditional mirror therapy, the other one is ARMT.
@@ -110,8 +136,8 @@ Each healthy subject will have **twice intervention**, one is the traditional mi
 #### Experimental procedure
  - Pre-test will take place in NCKU Hospital Rehabilitation Department
  - Next, for the purpose of collecting fNIRS signal, there will have ten minutes intervention will take place in NCKU BME Electrical Engineering Classroom.
- - In the ten minutes recording fNIRS time, the subject will only be asked to perform finger pinching. by their non-dominant hand. 
- - Depending on the group to which they were assigned, subjects were asked to observe with their eyes a mirrored hand (their dominant hand) generated through a mirror or VR headset.
+ - In the ten minutes recording fNIRS time, the subject will only be asked to perform finger pinching, **by their non-dominant hand**. 
+ - Depending on the group to which they were assigned, subjects **were asked to observe with their eyes a mirrored hand (their dominant hand)** generated through a mirror or VR headset.
  - After finish recording, subject will back to NCKU Hospital Rehabilitation Department to do the post test.
 
 
@@ -158,7 +184,7 @@ digraph {
     }
 }
 ```
-> Each trail box switch between resting and pinching, triggered by An auditory cue.
+> Each trail box switch between resting and pinching, triggered by an auditory cue.
 > **In the resting state**, subjects will be asked to let their minds go empty with closing their eyes
 > **During the pinching state**, the subjects were asked to observe their mirrored hand.
 
